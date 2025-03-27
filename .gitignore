@@ -1,0 +1,6 @@
+# Ignorar dependências do Node.js
+node_modules/
+package-lock.json
+
+# Ignorar credenciais e variáveis de ambiente
+.env
