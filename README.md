@@ -14,7 +14,7 @@ Antes de começar, certifique-se de ter instalado:
 1. Clone este repositório:
 
    ```sh
-   git clone (bota teu link aqui)
+   git clone (https://github.com/AlDuart/alistickerv1)
    cd sticker-bot
    ```
 
